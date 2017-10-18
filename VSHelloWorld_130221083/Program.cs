@@ -13,7 +13,10 @@ namespace VSHelloWorld_130221083
     public class Program
     {
         public static void Main(string[] args){
-            //Comentário Francisco
+            /*
+             * Comentário Francisco
+             * Mais um comentário
+             */
             BuildWebHost(args).Run();
         }
 
